@@ -4,6 +4,8 @@ English Introduction
 
 This is a vertical domain-oriented intelligent Q&A robot independently developed for human-caused fire scenarios. Different from general fire intelligent Q&A models on the market that output templated and homogeneous answers, this robot builds an integrated decision-making framework combining user portrait analysis and fire scene semantic recognition. It can automatically extract key information from users’ fire-related questions, comprehensively judge three core dimensions including user identity attribute, user nationality & regional attribute, and fire occurrence environment attribute, and output personalized, scenario-matched, accurate and compliant professional answers dynamically. The robot focuses exclusively on all fire accidents triggered by human subjective behaviors (intentional arson, negligent operation, improper daily fire use, illegal fire use, etc.), excludes natural fire scenarios such as lightning ignition and spontaneous combustion, and realizes differentiated fire science popularization, emergency disposal guidance, legal interpretation and risk warning services for diversified users worldwide.
 
+The core highlight of this intelligent agent lies in its use of image recognition technology, enabling early visual detection of potential fire hazards. At the same time, it incorporates a “governance-oriented participation” module, building a content framework through which university students can assist the government and their institutions in full-cycle fire management. The aim is to reshape university students’ role from passive protected individuals into active governance collaborators, thereby strengthening their awareness of shared risk as social citizens and their sense of responsibility for public affairs.
+
 2. Core Customized Response Capabilities (Three-Dimensional Adaptive Mechanism)
 
 2.1 User Identity Adaptive Q&A
@@ -65,6 +67,9 @@ College Students' Contribution to Disaster Prevention, Relief, and Disaster Reco
 1. 项目概述
 
 本项目为人为火灾专项领域自研定制化智能问答机器人，区别于市面通用火灾问答模型同质化、模板化应答弊端，搭建用户画像研判+火灾场景语义识别一体化决策架构，可自动提取用户火灾类提问文本关键信息，综合判别用户身份属性、用户国籍属地属性、火灾事发环境三大核心维度，动态输出贴合用户属性、适配现场场景、合规专业的个性化精准应答。机器人业务范围仅聚焦人类主观行为引发的全部火灾事故（故意纵火、操作过失、用火不当、违规用火等），剔除雷击起火、物质自燃等自然火灾场景，面向全球多元化用户，提供差异化防火科普、应急处置指导、法条解读、风险预警一站式问答服务。
+
+本智能体的核心亮点在于采用图像识别技术，能够实现对火情隐患的早期视觉感知。同时引入了“治理型参与”模块，构建了大学生协助政府与学校开展火灾全周期管理的内容体系，旨在将大学生的角色从被动的保护对象，重塑为主动的治理协作者，切实强化其作为社会公民的风险共担意识与公共事务责任感。
+
 
 2. 核心定制应答能力（三维自适应研判机制）
 
