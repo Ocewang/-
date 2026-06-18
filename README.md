@@ -1,4 +1,5 @@
 English Introduction
+
 1. Project Overview
 
 This is a vertical domain-oriented intelligent Q&A robot independently developed for human-caused fire scenarios. Different from general fire intelligent Q&A models on the market that output templated and homogeneous answers, this robot builds an integrated decision-making framework combining user portrait analysis and fire scene semantic recognition. It can automatically extract key information from users’ fire-related questions, comprehensively judge three core dimensions including user identity attribute, user nationality & regional attribute, and fire occurrence environment attribute, and output personalized, scenario-matched, accurate and compliant professional answers dynamically. The robot focuses exclusively on all fire accidents triggered by human subjective behaviors (intentional arson, negligent operation, improper daily fire use, illegal fire use, etc.), excludes natural fire scenarios such as lightning ignition and spontaneous combustion, and realizes differentiated fire science popularization, emergency disposal guidance, legal interpretation and risk warning services for diversified users worldwide.
@@ -51,8 +52,14 @@ The robot intelligently captures environmental site keywords from user questions
 
 Public fire safety publicity platform, cross-border fire prevention popularization port, internal fire safety consulting tool for enterprises and schools, fire trainee professional Q&A, cross-border building fire management consulting, fire-related legal science popularization service.
 
+5. College Students' Contribution to Disaster Prevention, Relief, and Disaster Reconstruction
 
----
+1. Popularize fire prevention knowledge: Relying on the personalized Q&A content of the robot, college students can carry out targeted human-caused fire safety publicity on campus and in surrounding communities, popularize standardized fire prevention norms and emergency avoidance knowledge, and effectively reduce the incidence of human-caused fire accidents.
+
+2. Assist in on-site disaster relief work: With the help of the robot’s professional fire disposal schemes and on-site rescue guidelines, college student volunteers can master standardized preliminary fire disposal, personnel evacuation and hazard elimination skills, assist professional rescue teams in completing auxiliary disaster relief work, and improve on-site emergency response efficiency.
+
+3. Support post-disaster reconstruction and risk prevention: College students can apply the robot’s fire accident traceability analysis and hidden danger rectification standards, sort out post-fire site risks, assist in completing post-disaster safety assessment and publicity and education of re-prevention measures, and provide basic support for post-disaster environmental restoration and long-term fire risk control.
+
 中文介绍
 
 1. 项目概述
@@ -106,3 +113,11 @@ Public fire safety publicity platform, cross-border fire prevention popularizati
 4. 适用落地场景
 
 公共消防安全宣教平台、跨境防火科普端口、企业校园内部防火答疑工具、消防从业学员研学答疑、涉外楼宇消防管理咨询、涉火普法公益问答服务。
+
+5. 大学生防灾救灾与灾后重建贡献
+
+1. 开展精准防火科普：大学生可依托机器人个性化、场景化的火灾问答内容，在校园、社区开展常态化人为火灾安全宣讲，普及规范用火、风险规避、应急逃生知识，夯实基层防灾基础，从源头减少人为火灾事故发生。
+
+2. 辅助一线救灾工作：借助机器人提供的火场处置方案、救援规范及避险准则，大学生志愿群体可快速掌握基础火情处置、人员疏散、隐患排查技能，协助专业救援队伍开展辅助救灾工作，提升应急处置效率。
+
+3. 助力灾后重建与长效防控：大学生可运用机器人的火灾溯源分析、隐患整改、风险预警相关内容，协助开展灾后现场风险排查、安全评估工作，同步宣讲灾后防火复防知识，为灾后环境修复、火灾风险长效管控提供支撑。
