@@ -42,13 +42,13 @@ The robot intelligently captures environmental site keywords from user questions
 
  Core Project Advantages
 
-1. Vertical domain specialization: Focus purely on human-caused fire tracks, eliminate irrelevant natural fire knowledge interference, and improve answer accuracy pertinently;
+-  Vertical domain specialization: Focus purely on human-caused fire tracks, eliminate irrelevant natural fire knowledge interference, and improve answer accuracy pertinently;
 
-2. Original three-dimensional adaptation: Integrate identity + nationality + environment joint judgment, which is different from single semantic matching of ordinary fire Q&A robots;
+ - Original three-dimensional adaptation: Integrate identity + nationality + environment joint judgment, which is different from single semantic matching of ordinary fire Q&A robots;
 
-3. Authoritative and traceable knowledge base: Data sourced from national fire rescue departments, international fire protection associations, global fire-related judicial cases and official public documents;
+ - Authoritative and traceable knowledge base: Data sourced from national fire rescue departments, international fire protection associations, global fire-related judicial cases and official public documents;
 
-4. Zero-operation intelligence: Automatic identification of user information and scene information, no manual label selection required for users, one-click question for exclusive answers.
+- Zero-operation intelligence: Automatic identification of user information and scene information, no manual label selection required for users, one-click question for exclusive answers.
 
  Applicable Application Scenarios
 
@@ -56,11 +56,11 @@ Public fire safety publicity platform, cross-border fire prevention popularizati
 
 College Students' Contribution to Disaster Prevention, Relief, and Disaster Reconstruction
 
-1. Popularize fire prevention knowledge: Relying on the personalized Q&A content of the robot, college students can carry out targeted human-caused fire safety publicity on campus and in surrounding communities, popularize standardized fire prevention norms and emergency avoidance knowledge, and effectively reduce the incidence of human-caused fire accidents.
+-  Popularize fire prevention knowledge: Relying on the personalized Q&A content of the robot, college students can carry out targeted human-caused fire safety publicity on campus and in surrounding communities, popularize standardized fire prevention norms and emergency avoidance knowledge, and effectively reduce the incidence of human-caused fire accidents.
 
-2. Assist in on-site disaster relief work: With the help of the robot’s professional fire disposal schemes and on-site rescue guidelines, college student volunteers can master standardized preliminary fire disposal, personnel evacuation and hazard elimination skills, assist professional rescue teams in completing auxiliary disaster relief work, and improve on-site emergency response efficiency.
+-  Assist in on-site disaster relief work: With the help of the robot’s professional fire disposal schemes and on-site rescue guidelines, college student volunteers can master standardized preliminary fire disposal, personnel evacuation and hazard elimination skills, assist professional rescue teams in completing auxiliary disaster relief work, and improve on-site emergency response efficiency.
 
-3. Support post-disaster reconstruction and risk prevention: College students can apply the robot’s fire accident traceability analysis and hidden danger rectification standards, sort out post-fire site risks, assist in completing post-disaster safety assessment and publicity and education of re-prevention measures, and provide basic support for post-disaster environmental restoration and long-term fire risk control.
+ - Support post-disaster reconstruction and risk prevention: College students can apply the robot’s fire accident traceability analysis and hidden danger rectification standards, sort out post-fire site risks, assist in completing post-disaster safety assessment and publicity and education of re-prevention measures, and provide basic support for post-disaster environmental restoration and long-term fire risk control.
 
 中文介绍
 
