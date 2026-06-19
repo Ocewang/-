@@ -40,7 +40,7 @@ Built with multi-national fire control standard library, local fire safety laws,
 
 The robot intelligently captures environmental site keywords from user questions, divides human-caused fire occurrence scenes by space attribute, analyzes on-site combustible materials, personnel density, supporting fire-fighting facilities and site management rules, and avoids universal templated answers. Classified scene coverage includes: residential indoor environment, campus public environment, industrial park factory environment, wild mountain & forest environment, closed commercial supermarket environment, construction site operation environment, cross-border public building environment. For example, it outputs completely different prevention measures, on-site fire extinguishing taboos and post-accident handling processes for mountain wild human open-fire fire and household electrical misuse human-caused fire.
 
- Core Project Advantages
+3. Core Project Advantages
 
 -  Vertical domain specialization: Focus purely on human-caused fire tracks, eliminate irrelevant natural fire knowledge interference, and improve answer accuracy pertinently;
 
@@ -50,11 +50,11 @@ The robot intelligently captures environmental site keywords from user questions
 
 - Zero-operation intelligence: Automatic identification of user information and scene information, no manual label selection required for users, one-click question for exclusive answers.
 
- Applicable Application Scenarios
+ 4.Applicable Application Scenarios
 
 Public fire safety publicity platform, cross-border fire prevention popularization port, internal fire safety consulting tool for enterprises and schools, fire trainee professional Q&A, cross-border building fire management consulting, fire-related legal science popularization service.
 
-College Students' Contribution to Disaster Prevention, Relief, and Disaster Reconstruction
+5.College Students' Contribution to Disaster Prevention, Relief, and Disaster Reconstruction
 
 -  Popularize fire prevention knowledge: Relying on the personalized Q&A content of the robot, college students can carry out targeted human-caused fire safety publicity on campus and in surrounding communities, popularize standardized fire prevention norms and emergency avoidance knowledge, and effectively reduce the incidence of human-caused fire accidents.
 
@@ -105,7 +105,7 @@ College Students' Contribution to Disaster Prevention, Relief, and Disaster Reco
 
 机器人智能抓取问句内场地环境关键词，按空间属性划分人为火灾事发场景，结合现场可燃物类型、人员密度、配套消防设施、场地管理规则研判作答，彻底规避通用模板化答案。覆盖细分场景：居家室内环境、校园公共环境、工业园区厂区环境、山林野外环境、商超密闭公共环境、工地施工环境、跨境涉外楼宇环境。例如：野外人为明火失火、居家电器误用起火两类同质人为火情，机器人会输出完全独立的防控手段、火场扑救禁忌、事故善后处理流程。
 
-项目核心优势
+3.项目核心优势
 
 - 领域垂直专精：纯聚焦人为火灾细分赛道，剔除自然火灾冗余知识库干扰，定向提升问答精准度；
  
@@ -115,11 +115,11 @@ College Students' Contribution to Disaster Prevention, Relief, and Disaster Reco
 
 - 无感智能交互：自动识别用户信息与场景信息，用户无需手动勾选标签，提问即可获取专属定制答案。
 
-适用落地场景
+4.适用落地场景
 
 公共消防安全宣教平台、跨境防火科普端口、企业校园内部防火答疑工具、消防从业学员研学答疑、涉外楼宇消防管理咨询、涉火普法公益问答服务。
 
-   大学生防灾救灾与灾后重建贡献
+  5. 大学生防灾救灾与灾后重建贡献
 
  - 开展精准防火科普：大学生可依托机器人个性化、场景化的火灾问答内容，在校园、社区开展常态化人为火灾安全宣讲，普及规范用火、风险规避、应急逃生知识，夯实基层防灾基础，从源头减少人为火灾事故发生。
 
